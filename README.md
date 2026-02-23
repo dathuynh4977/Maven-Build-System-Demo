@@ -11,7 +11,7 @@
 Hi
 A simple Java project that demonstrates core Maven (build system) concepts and CI/CD with GitHub Actions.
 
-## Project Structure (Maven Standard Layout)
+## Project Structure (Maven Standard Layout) 
 
 ```
 Java/
